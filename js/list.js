@@ -117,912 +117,252 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Step To Hell",
-			"author": "oSpace and more [oSpace]",
+			"name": "Complex",
+			"author": "WOOGI1411 and KSWgeo [WOOGI1411]",
 			"more": "none",
-			"id": 54868104,
-			"pass": "050319",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=none",
+			"id": 15947387,
+			"pass": "Not Copyable",
+			"percentToQualify": 71,
+			"verificationVid": "https://www.youtube.com/watch?v=q4OQ7KIdZoI",
 			"key": 8
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "Lime0037",
-					"link": "https://www.youtube.com/watch?v=OnRX7lKv6VM",
-					"percent": 100,
-					"hz": "75hz"
-				},
-				{
-					"user": "nng12",
-					"link": "https://www.youtube.com/watch?v=2d6tQfhhS30",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=ptE5g_dwu-k",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=e63wj18ZzJI",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "eafan0",
-					"link": "https://www.youtube.com/watch?v=Wevu1LVb9nA",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Wooung",
-					"link": "https://www.youtube.com/watch?v=KNLpcsm0wSs",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Redcraft",
-					"link": "https://www.youtube.com/watch?v=rTXI5cZauIU",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://www.youtube.com/watch?v=GCBDN97J-fs",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Revitin",
-					"link": "https://www.youtube.com/watch?v=UrKpWk7bhcc",
-					"percent": 100,
-					"hz": "144hz"
-				},
+				
 			],
-			"name": "Shitty Paroxysm",
-			"author": "Megum",
+			"name": "Astronomical Alchemy",
+			"author": "iSparki [Zalgaryth]",
 			"more": "none",
-			"id": 46950888,
-			"pass": "135086",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=09tv3JWPkIs",
+			"id": 43106353,
+			"pass": "001525",
+			"percentToQualify": 76,
+			"verificationVid": "https://www.youtube.com/watch?v=tVD9BvrP_vw",
 			"key": 9
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=DPKZoVIGrBw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=RoDb7kwq0iM",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=ESrhUZIllXY",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Reoode",
-					"link": "https://www.youtube.com/watch?v=_2ktji79MzA",
-					"percent": 100,
-					"hz": "144hz"
-				},
+				
 			],
-			"name": "Shitty Bloodbath",
-			"author": "RealOptagonus",
+			"name": "Encore",
+			"author": "ZephiroX [Arquas]",
 			"more": "none",
-			"id": 19865573,
-			"pass": "150516",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=u4ZzloFrNWQ",
+			"id": 38607828,
+			"pass": "Free Copy",
+			"percentToQualify": 75,
+			"verificationVid": "https://www.youtube.com/watch?v=-EuQNmyHs9Q",
 			"key": 10
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "Lime0037",
-					"link": "https://www.youtube.com/watch?v=MAE8HYDCHA4",
-					"percent": 100,
-					"hz": "75hz"
-				},
-				{
-					"user": "nng12",
-					"link": "https://www.youtube.com/watch?v=tbumCvoeUvA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=NUNK3G1Byek",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=Rrotm3qdLeY",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "AlphaXIV",
-					"link": "https://www.youtube.com/watch?v=ombmg5qJU_w",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=PtxnQafQ7mc",
-					"percent": 100,
-					"hz": "Mobile"
-				},
+				
 			],
-			"name": "Shitty Epsilon",
-			"author": "Segone",
+			"name": "Dark RainBow Rebirth",
+			"author": "Knobbelboy [Rlol]",
 			"more": "none",
-			"id": 50911887,
-			"pass": "747747",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=LiMjp1OqenI",
+			"id": 17217389,
+			"pass": "Free Copy",
+			"percentToQualify": 73,
+			"verificationVid": "https://www.youtube.com/watch?v=ZD7_HukKAXw",
 			"key": 11
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=aOFmwBlG8nk",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=YO2eQtLRnkI",
-					"percent": 100,
-					"hz": "144hz"
-				},
+				
 			],
-			"name": "Shitty Cadrega City",
-			"author": "Megum",
-			"more": "none",
-			"id": 46901184,
-			"pass": "097643",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=6l2kNZpK9Qg",
+			"name": "Achondrite",
+			"author": "Stormfly and more [Stormfly]",
+			"more": "Stevokoriko, Lucasyecla99, Kugelblitz, Bread, and Lunar",
+			"id": 43967757,
+			"pass": "180325",
+			"percentToQualify": 70,
+			"verificationVid": "https://www.youtube.com/watch?v=yQB4BxpBAXk",
 			"key": 12
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=HyhnF6WUS8Q",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=4i7e8uk7Mvw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=jFJlOn5yQwY",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "SherYn",
-					"link": "https://www.youtube.com/watch?v=BMwEB4xET0w",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Lime0037",
-					"link": "https://www.youtube.com/watch?v=va_IQT9TSr4",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "TherealTundra",
-					"link": "https://www.youtube.com/watch?v=MUYXQ7NJqm4",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "GDStarStorm",
-					"link": "https://www.youtube.com/watch?v=CDIK_kXNEYI",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://www.youtube.com/watch?v=bQvA6BGBoGk",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Bluescore07",
-					"link": "https://www.youtube.com/watch?v=eqE8lVnfRCk",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "fgkaetvcb",
-					"link": "https://www.youtube.com/watch?v=9aoMDoRNdc0",
-					"percent": 100,
-					"hz": "Mobile"
-				},
+				
 			],
-			"name": "Shitty Celestial Force",
-			"author": "Megum",
+			"name": "MELTDOWN",
+			"author": "Darwin [Nexus]",
 			"more": "none",
-			"id": 50174445,
-			"pass": "987123",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=01V2wiWS69o",
+			"id": 52527538,
+			"pass": "425069",
+			"percentToQualify": 66,
+			"verificationVid": "https://www.youtube.com/watch?v=mAfwv6zvxCU",
 			"key": 13
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=OCjMIMm-jAo",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=64ketU5_cQY",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Xanplayzgamez",
-					"link": "https://www.youtube.com/watch?v=r7lxF-rTijg",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Lime0037",
-					"link": "https://www.youtube.com/watch?v=vlBls0jJ8vQ",
-					"percent": 100,
-					"hz": "75hz"
-				},
+				
 			],
-			"name": "Shitty Singularity",
-			"author": "Megum",
+			"name": "Death Note",
+			"author": "Ruf",
 			"more": "none",
-			"id": 48249992,
-			"pass": "475869",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=GoubaPmG4zE",
+			"id": 5232805,
+			"pass": "Not Copyable",
+			"percentToQualify": 76,
+			"verificationVid": "https://www.youtube.com/watch?v=nq8aP94tgAQ",
 			"key": 14
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=7Kf0B0GWbS8",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=yNY2SBOCAdg",
-					"percent": 100,
-					"hz": "144hz"
-				},
+			
 			],
-			"name": "Shitty Delta Interface",
-			"author": "Segone",
+			"name": "ICE Carbon Diablo X",
+			"author": "-",
 			"more": "none",
-			"id": 48296479,
-			"pass": "597597",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=rwQyyG-ysZ8",
+			"id": 814678,
+			"pass": "Not Copyable",
+			"percentToQualify": 72,
+			"verificationVid": "https://www.youtube.com/watch?v=Z6BZGCJvDy0",
 			"key": 15
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "nng12",
-					"link": "https://www.youtube.com/watch?v=Tpf-aPMNrig",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=TdWgDiFecyU",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=HpzPmvSScLI",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "RedLime",
-					"link": "https://www.youtube.com/watch?v=TXNV0_CZB3k",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Redcraft",
-					"link": "https://www.youtube.com/watch?v=_2DYd0vAVh8",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Megum",
-					"link": "https://www.youtube.com/watch?v=q-P4ybSLZP4",
-					"percent": 100,
-					"hz": "Mobile"
-				},
+				
 			],
-			"name": "Shitty Blade of Justice",
-			"author": "ZenroiL and more [oSpace]",
-			"more": "ZenroiL, AlexTheGS, Megum, Smajlik, TheAquaZepyr2",
-			"id": 51744070,
-			"pass": "050119",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=ErAgqjsx6ng",
+			"name": "Hydraulic Overdrive",
+			"author": "Xyriak [Geo Dash Brad]",
+			"more": "none",
+			"id": 35680614,
+			"pass": "469331",
+			"percentToQualify": 73,
+			"verificationVid": "https://www.youtube.com/watch?v=9vtq09Fvdf8&t=",
 			"key": 16
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=9iHdrmsaufQ",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=SXFCfhZzoeI",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "SherYn",
-					"link": "https://www.youtube.com/watch?v=cNxiSGumz-4",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=h15Lj-J535E",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Lime0037",
-					"link": "https://www.youtube.com/watch?v=QmKeRArue24",
-					"percent": 100,
-					"hz": "75hz"
-				},
-				{
-					"user": "Rapter14",
-					"link": "https://www.youtube.com/watch?v=GradG_bLXvY",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://www.youtube.com/watch?v=0Vqf1Cet2vg",
-					"percent": 100,
-					"hz": "60hz"
-				},
+				
 			],
-			"name": "Shitty Factory Realm X",
-			"author": "Megum",
+			"name": "NecroDynamix",
+			"author": "HelpegasuS [Demon MasterBr]",
 			"more": "none",
-			"id": 48073424,
-			"pass": "375209",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=cUz5AlXaXxU",
+			"id": 33383668,
+			"pass": "010517",
+			"percentToQualify": 67,
+			"verificationVid": "https://www.youtube.com/watch?v=1SpA7qCicSQ",
 			"key": 17
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=d39pODi8t0E",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Solarzz",
-					"link": "https://www.youtube.com/watch?v=F0Tf7qgGkBc",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=mgff3fWIRq4",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Wooung",
-					"link": "https://www.youtube.com/watch?v=AjOxeETMAIw",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Reoode",
-					"link": "https://www.youtube.com/watch?v=hXFkF-AMXQ0",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Revitin",
-					"link": "https://www.youtube.com/watch?v=WeBAzd7-8g0",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "AlphaXIV",
-					"link": "https://www.youtube.com/watch?v=ouaivqK3c2Y",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Lime0037",
-					"link": "https://www.youtube.com/watch?v=22fbKV3kWMk",
-					"percent": 100,
-					"hz": "75hz"
-				},
-				{
-					"user": "BlastSplash",
-					"link": "https://www.youtube.com/watch?v=RV--xls_cpk",
-					"percent": 64,
-					"hz": "Mobile"
-				},
+				
 			],
-			"name": "Shitty Arctic Lights",
-			"author": "IFrankis",
+			"name": "ICE Carbon Zust",
+			"author": "TheRealZust",
 			"more": "none",
-			"id": 46494762,
-			"pass": "123456",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=9tvwV-cMfiQ",
+			"id": 151941,
+			"pass": "Not Copyable",
+			"percentToQualify": 72,
+			"verificationVid": "https://www.youtube.com/watch?v=wx1_8UP4RVg",
 			"key": 18
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=_ueDuLZI_7k",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "K4slic",
-					"link": "https://www.youtube.com/watch?v=alktwVpPRKo",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=UUA3HjzCkdw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=j78yTIQ9MrE",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=FuVylQS9pSI",
-					"percent": 69,
-					"hz": "Mobile"
-				},
+				
 			],
-			"name": "Shitty Audio Expulsion",
-			"author": "Megum and more [Megum]",
-			"more": "Megum, TheAquaZephyr2, Axasion, CorporalPikachu, XanPlayzGamez, Izender, oSpace",
-			"id": 50820782,
-			"pass": "135086",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=F7wDHu9oJCQ",
+			"name": "Galaxy Breaker [FROOZEE]",
+			"author": "Bianox",
+			"more": "none",
+			"id": 23409681,
+			"pass": "142536",
+			"percentToQualify": 80,
+			"verificationVid": "https://www.youtube.com/watch?v=X8vtKAkYtio",
 			"key": 19
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=9k1x8Lk6DPE",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=8dpCeWVVSpA",
-					"percent": 100,
-					"hz": "144hz"
-				},
+				
 			],
-			"name": "Shitty ATMarbl",
-			"author": "Megum and more [Megum]",
-			"more": "Megum, Segone, oSpace, Goddardl, DTDU, xSmajlik and AcropolisBoy",
-			"id": 50619560,
-			"pass": "325698",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=Km_F5aCn874",
-			"key": 20
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=4APFIW418OU",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=8635EUNvp98",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "RapheN",
-					"link": "https://www.youtube.com/watch?v=qRtPUEp6shw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Therealtundra",
-					"link": "https://www.youtube.com/watch?v=xVuWDt4QCJQ",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Megum",
-					"link": "https://www.youtube.com/watch?v=lFD9lHR562E",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=9oajSgzkrD4",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "EpsilonP",
-					"link": "https://www.youtube.com/watch?v=X3NUQguAvyM",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "RedLime",
-					"link": "https://www.youtube.com/watch?v=Xum0DxMPE7s",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Zodiac",
-			"author": "oSpace and more [oSpace]",
-			"more": "oSpace, Deleitor11, Segone, SkullBytes, ShadowNinja441, AcropolisBoy, Goddardl, Megum",
-			"id": 53858796,
-			"pass": "Free copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=roX0W3rS6L8",
+			"name": "Kurumi City",
+			"author": "IRabb2tI and more",
+			"more": "Swirl, Luneth, WOOGI1411, Ryoon, Dhk2725, and CrePusCule.",
+			"id": 15845254,
+			"pass": "159632",
+			"percentToQualify": 80,
+			"verificationVid": "https://www.youtube.com/watch?v=D3rR2fwS5fY",
 			"key": 21
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=DlhySmIK9_U",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=BwkDS0_b5Dc",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "RedSwitch",
-					"link": "https://www.youtube.com/watch?v=MEaKPM3eZro",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Lime0037",
-					"link": "https://www.youtube.com/watch?v=S7mpwtpbLA4",
-					"percent": 100,
-					"hz": "75hz"
-				},
-				{
-					"user": "AlphaXIV",
-					"link": "https://www.youtube.com/watch?v=aXCzRzSjwtQ",
-					"percent": 100,
-					"hz": "Mobile"
-				},
+				
 			],
-			"name": "Shitty Atmosphere",
-			"author": "Megum",
+			"name": "Galatic Fragility",
+			"author": "TeamSmokeWeed [Tricks33]",
 			"more": "none",
-			"id": 55501961,
-			"pass": "120519",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=wnGLzp9gdTY",
+			"id": 9834617,
+			"pass": "Not Copyable",
+			"percentToQualify": 76,
+			"verificationVid": "https://www.youtube.com/watch?v=nQvDMt5WmkQ",
 			"key": 22
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=5OVrkPsE3NM",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=cXzjCWfZnCw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Reoode",
-					"link": "https://www.youtube.com/watch?v=KiXB3zb5100",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Megum",
-					"link": "https://www.youtube.com/watch?v=Rdb-z8zRRYM",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=ezkYJk5NUlY",
-					"percent": 71,
-					"hz": "Mobile"
-				},
+				
 			],
-			"name": "Shitty Death Corridor",
-			"author": "Acropolisboy and more [Acropolisboy]",
-			"more": "Megum, AcropolisBoy, R4mm1337, oSpace, TheAquaZephyr2 (ShadowNinja), AlexTheGS33, IZender, Axasion",
-			"id": 55501961,
-			"pass": "123666",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=Rdb-z8zRRYM",
+			"name": "Fingerdash v3",
+			"author": "BGames",
+			"more": "none",
+			"id": 29914623,
+			"pass": "196000",
+			"percentToQualify": 75,
+			"verificationVid": "https://www.youtube.com/watch?v=hR8uBFJF7ew",
 			"key": 23
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://youtu.be/G5AV8bYHnFQ",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=KOgiwXB5jXw",
-					"percent": 100,
-					"hz": "60hz"
-				},
+				
 			],
-			"name": "Shitty Unearthed",
-			"author": "TheNatanaelGD",
+			"name": "New Supersonic",
+			"author": "CronosMx",
 			"more": "none",
-			"id": 56109504,
-			"pass": "Free copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=4ROpnxh1nZU",
+			"id": 17683166,
+			"pass": "164548",
+			"percentToQualify":69,
+			"verificationVid": "https://www.youtube.com/watch?v=SIIeY7hEyxs",
 			"key": 24
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=bjMpP7tRMDk",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=Z1VMaB_anqI",
-					"percent": 100,
-					"hz": "144hz"
-				},
+				
 			],
-			"name": "Shitty Bausha Vortex",
-			"author": "Megum",
+			"name": "Creeper Force",
+			"author": "CreeperMILK",
 			"more": "none",
-			"id": 48219651,
-			"pass": "100511",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=wl69pSw4vb4",
+			"id": 2487191,
+			"pass": "000532",
+			"percentToQualify": 75,
+			"verificationVid": "https://www.youtube.com/watch?v=l2Kk2re3rJo",
 			"key": 25
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=LlYmpRZw8Ds",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=Z5ztm2fD1gc",
-					"percent": 100,
-					"hz": "144hz"
-				},
+				
 			],
-			"name": "Shitty Bloodlust",
-			"author": "Segone",
-			"more": "",
-			"id": 46218296,
-			"pass": "910910",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=6zu6AoKYLfU",
-			"key": 26
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=jksjz-kQ5-U",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=ViDD9rcSjgI",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Ziroikabi",
-			"author": "Megum",
-			"more": "",
-			"id": 47413314,
-			"pass": "159357",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=ZEtcNuuW8Ys",
-			"key": 27
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=EwchJFIvK5o",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=cQSuYJnK1qs",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Artificial Ascent",
-			"author": "Megum and more [Megum]",
-			"more": "Megum, AlexTheGS33, ShadowNinja441, AcropolisBoy, Goddardl, ShuvonIslam777, iZender, Woris376CZ",
-			"id": 51905026,
-			"pass": "789321",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=1R_6CLeZ7NU",
-			"key": 28
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=pvlGMF32SJ0",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=3OpK9X2r37M",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Leesiwoo",
-					"link": "https://www.youtube.com/watch?v=zSmKu9QQmN0",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=bq0qw8vdGmU",
-					"percent": 90,
-					"hz": "Mobile"
-				},
-			],
-			"name": "Shitty Visible Ray",
-			"author": "Megum and more [Megum]",
-			"more": "Megum, Segone, AlexTheGS33, Goddardl, SkullBytes, ShadowNinja441, ShuvonIslam777, Zenriol",
-			"id": 55174871,
-			"pass": "042019",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=6JYh8vNm-EA",
-			"key": 29
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=sF-G3ZFqVKc",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=t-DEwaVR4AM",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "AlphaXIV",
-					"link": "https://www.youtube.com/watch?v=URC9IuVbT7Q",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Megum",
-					"link": "https://www.youtube.com/watch?v=irwPkK6x9Mg",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-			],
-			"name": "Shitty Awakening Horus",
+			"name": "Abandoned Kingdom",
 			"author": "oSpace and Megum [oSpace]",
 			"more": "Megum, ItzDevGD, Goddardl, ShadowNinja441, Kevinacho18, Miini03, AcropolisBoy, Keleru",
 			"id": 54447236,
 			"pass": "090319",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=URC9IuVbT7Q",
-			"key": 30
+			"key": 36
 		},
 		/*=================================================================================*/
 		{
