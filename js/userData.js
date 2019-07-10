@@ -32,7 +32,7 @@ function userList() {
 
             user_data.push({name : verifier, highest : "null", progress : prog, point : p, verified : verified});
         }
-        alert("test")
+       
         for (var a = 0 ; a < entry.vids.length ; a++) {
             var entry2 = entry.vids[a];
             var isLoot = false;
@@ -67,7 +67,7 @@ function userList() {
             }
         }
     }
-  alert("test2")
+
     var sortingField = "point"
     user_data.sort(function(a, b) {
     return b[sortingField] - a[sortingField];
@@ -79,7 +79,6 @@ function userList() {
             return b["score"] - a["score"];
         });
     }
-    alert("test3")
     return user_data;
 }
 
