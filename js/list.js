@@ -6,7 +6,7 @@ const d = {
 				
 			],
 			"name": "Torrential Storm",
-			"author": "xKstrol [Berke423]",
+			"author": "xKstrol and more [Berke423]",
 			"more": "none",
 			"id": 42214580,
 			"pass": "281100",
