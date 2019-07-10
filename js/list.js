@@ -3,17 +3,10 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					
-					"user": "Donut",
-					"link": "https://www.youtube.com/watch?v=DBXQUmF9bOA",
-					"percent": 100,
-					"hz": "144hz"
-		
-				},
+				
 			],
 			"name": "Torrential Storm",
-			"author": "xKstrol",
+			"author": "xKstrol [Berke423]",
 			"more": "none",
 			"id": 42214580,
 			"pass": "281100",
@@ -27,7 +20,7 @@ const d = {
 				
 			],
 			"name": "Es Dilar Nos",
-			"author": "Mulpan and Angelbaton",
+			"author": "Mulpan and Angelbaton [Angelbaton]",
 			"more": "none",
 			"id": 45023719,
 			"pass": "011020",
@@ -41,7 +34,7 @@ const d = {
 				
 			],
 			"name": "The Ultimate Phase",
-			"author": "Andromeda GMD and more",
+			"author": "Andromeda GMD and more [Andromeda GMD]",
 			"more": "none",
 			"id": 7174110,
 			"pass": "999999",
@@ -55,7 +48,7 @@ const d = {
 				
 			],
 			"name": "Destruction of God",
-			"author": "RelayX and more",
+			"author": "RelayX and more [Dorami]",
 			"more": "none",
 			"id": 44942295,
 			"pass": "111112",
@@ -69,7 +62,7 @@ const d = {
 				
 			],
 			"name": "AAAAAAAAAAAAAAAAAAAA",
-			"author": "RoiMousti",
+			"author": "RoiMousti [Dorami]",
 			"more": "none",
 			"id": 38761927,
 			"pass": "964796",
@@ -83,7 +76,7 @@ const d = {
 				
 			],
 			"name": "Photovoltaic",
-			"author": "Mazl and more",
+			"author": "Mazl and more [Quantum]",
 			"more": "none",
 			"id": 19709171,
 			"pass": "493367",
@@ -97,7 +90,7 @@ const d = {
 				
 			],
 			"name": "After Catabath",
-			"author": "BoyoftheCones and more",
+			"author": "BoyoftheCones and more [BoyoftheCones]",
 			"more": "none",
 			"id": 23355570,
 			"pass": "1987",
@@ -111,7 +104,7 @@ const d = {
 				
 			],
 			"name": "Final Epilogue",
-			"author": "Pennutoh",
+			"author": "Pennutoh [Failure444]",
 			"more": "none",
 			"id": 28231603,
 			"pass": "135790",
