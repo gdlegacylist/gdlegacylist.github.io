@@ -286,13 +286,13 @@ const d = {
 				
 			],
 			"name": "Kurumi City",
-			"author": "IRabb2tI and more",
+			"author": "IRabb2tI and more [Koreaqwer]",
 			"more": "Swirl, Luneth, WOOGI1411, Ryoon, Dhk2725, and CrePusCule.",
 			"id": 15845254,
 			"pass": "159632",
 			"percentToQualify": 80,
 			"verificationVid": "https://www.youtube.com/watch?v=D3rR2fwS5fY",
-			"key": 21
+			"key": 20
 		},
 		/*=================================================================================*/
 		{
@@ -306,7 +306,7 @@ const d = {
 			"pass": "Not Copyable",
 			"percentToQualify": 76,
 			"verificationVid": "https://www.youtube.com/watch?v=nQvDMt5WmkQ",
-			"key": 22
+			"key": 21
 		},
 		/*=================================================================================*/
 		{
@@ -320,7 +320,7 @@ const d = {
 			"pass": "196000",
 			"percentToQualify": 75,
 			"verificationVid": "https://www.youtube.com/watch?v=hR8uBFJF7ew",
-			"key": 23
+			"key": 22
 		},
 		/*=================================================================================*/
 		{
@@ -334,7 +334,7 @@ const d = {
 			"pass": "164548",
 			"percentToQualify":69,
 			"verificationVid": "https://www.youtube.com/watch?v=SIIeY7hEyxs",
-			"key": 24
+			"key": 23
 		},
 		/*=================================================================================*/
 		{
@@ -348,7 +348,7 @@ const d = {
 			"pass": "000532",
 			"percentToQualify": 75,
 			"verificationVid": "https://www.youtube.com/watch?v=l2Kk2re3rJo",
-			"key": 25
+			"key": 24
 		},
 		/*=================================================================================*/
 		{
@@ -356,155 +356,69 @@ const d = {
 				
 			],
 			"name": "Abandoned Kingdom",
-			"author": "oSpace and Megum [oSpace]",
-			"more": "Megum, ItzDevGD, Goddardl, ShadowNinja441, Kevinacho18, Miini03, AcropolisBoy, Keleru",
-			"id": 54447236,
-			"pass": "090319",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=URC9IuVbT7Q",
-			"key": 36
+			"author": "Olikros and more",
+			"more": "Pawlogates, Ozix, JustBasic, Theeb, Musik, Kapianol, Asterion, Swietymiki, Tarmanin, Izdya, RealDelector, Zimnior, Chlebojad, Vodyano Dzeser, Ternamit",
+			"id": 29127411,
+			"pass": "754128",
+			"percentToQualify": 73,
+			"verificationVid": "https://www.youtube.com/watch?v=hhaOi21wMlk",
+			"key": 25
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=SMyNH9jDG_g",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=YzTgYuNijV4",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "TheRealTundra",
-					"link": "https://www.youtube.com/watch?v=Swlrvt18rSQ",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=rRgGTxxN-Y0",
-					"percent": 100,
-					"hz": "Mobile"
-				},
+				
 			],
-			"name": "Shitty Dark flare",
-			"author": "Megum and more [Megum]",
-			"more": "Megum, ItzDevGD, Goddardl, ShadowNinja441, Kevinacho18, Miini03, AcropolisBoy, Keleru",
-			"id": 55205684,
-			"pass": "201920",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=R0A0khSiIsw",
-			"key": 31
+			"name": "Death Breaker",
+			"author": "LioLeo [Mulpan]",
+			"more": "none",
+			"id": 49470094,
+			"pass": "123098",
+			"percentToQualify": 73,
+			"verificationVid": "https://www.youtube.com/watch?v=nd1RjkChEZg",
+			"key": 26
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=8pbz9JNibd0",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "reoode",
-					"link": "https://www.youtube.com/watch?v=C28Wix2qC8s",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=NFxkEflXrkQ",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=ZVATmwuIiIA",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "RedLime",
-					"link": "https://www.youtube.com/watch?v=Esu1CrLSRJg",
-					"percent": 100,
-					"hz": "144hz"
-				},
+				
 			],
-			"name": "Shitty The Hell Field",
-			"author": "AcropolisBoy",
-			"more": "",
-			"id": 55476442,
-			"pass": "000006",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=8pbz9JNibd0",
-			"key": 32
+			"name": "Future Circles",
+			"author": "KeiAs",
+			"more": "none",
+			"id": 21306256,
+			"pass": "159753",
+			"percentToQualify": 76,
+			"verificationVid": "https://www.youtube.com/watch?v=VlHuB_gRFzI",
+			"key": 27
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=nZuDdnlN-X4",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=SjiCilKv8TM",
-					"percent": 100,
-					"hz": "144hz"
-				},
+				
 			],
-			"name": "Shitty NecropoliX",
-			"author": "AcropolisBoy",
-			"more": "",
-			"id": 54841893,
-			"pass": "668111",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=nZuDdnlN-X4",
-			"key": 33
+			"name": "Quest For Perfection",
+			"author": "LazerBlitz",
+			"more": "none",
+			"id": 21952243,
+			"pass": "369741",
+			"percentToQualify": 85,
+			"verificationVid": "https://www.youtube.com/watch?v=MAN_ZWb2rY0",
+			"key": 28
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=Ul1IM5zokQk",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=ux6ghKMRpI4",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Megum",
-					"link": "https://www.youtube.com/watch?v=maJcSIR-SLU",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "SKY GD",
-					"link": "https://www.youtube.com/watch?v=chYLzgs0g0Q",
-					"percent": 68,
-					"hz": "Mobile"
-				},
+				
 			],
-			"name": "Shitty Ancestral calamity",
-			"author": "oSpace and more [oSpace]",
-			"more": "Klaro GD, ShadowNinja441, SoyNadie, oSpace, Megum, Miini03, Kevinacho18",
-			"id": 55302658,
-			"pass": "300419",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=maJcSIR-SLU",
-			"key": 34
+			"name": "Cyber Chaos",
+			"author": "Hinds",
+			"more": "none",
+			"id": 18674844,
+			"pass": "Free Copy",
+			"percentToQualify": 72,
+			"verificationVid": "https://www.youtube.com/watch?v=S1qRt75W2BI",
+			"key": 29
 		},
 		/*=================================================================================*/
 		{
